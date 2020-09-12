@@ -10,7 +10,7 @@ Resources:
       Properties:
         Handler: main
         Runtime: custom
-        CodeUri: "./bootstrap"
+        CodeUri: "./artifact"
         EnvironmentVariables:
           "GIN_MODE": "release"
       Events:
