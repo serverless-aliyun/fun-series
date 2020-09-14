@@ -44,7 +44,7 @@ func (ctrl *controller) detail(c *gin.Context) {
 		return
 	}
 
-	c.JSON(http.StatusOK, series)
+	c.JSON(http.StatusOK, data(series))
 }
 
 func (ctrl *controller) episodes(c *gin.Context) {
