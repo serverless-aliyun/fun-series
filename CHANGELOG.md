@@ -12,3 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Search series
 - Automatically build and deploy with github workflow depend on [funcraft](https://github.com/alibaba/funcraft)
 - Automatically publish github release with [goreleaser](https://goreleaser.com/)
+
+## [1.0.1] - 2020-09-12
+
+### Bugfix/Modify
+
+- Wrap _series detail_ success result with data and timestamp
