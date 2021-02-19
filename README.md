@@ -1,4 +1,4 @@
-Series Function
+Series Function - R.I.P.
 
 > 剧集搜素
 
